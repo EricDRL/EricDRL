@@ -42,29 +42,27 @@ Me chamo Eric Delefrati Rocha Leite, tenho 20 anos e sou natural do Paraná. Con
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img
-    align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 10px;"
     src="https://github-stats-extended.vercel.app/api?username=EricDRL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
   <img
-    align="left"
     alt="Linguagens mais utilizadas"
     height="200"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=EricDRL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
 
----
+<br/> 
 
-### 💾 Commits
+### 🐱‍💻 Commits
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricDRL/EricDRL/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricDRL/EricDRL/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EricDRL/EricDRL/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricDRL/EricDRL/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricDRL/EricDRL/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EricDRL/EricDRL/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
