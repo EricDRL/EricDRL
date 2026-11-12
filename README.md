@@ -8,16 +8,16 @@ Me chamo Eric Delefrati Rocha Leite, tenho 20 anos e sou natural do Paraná. Con
     </a> 
     <a href="https://github.com/EricDRL?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total de repositórios" 
+            title="Total de repositórios GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/repositories/EricDRL?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=repositórios"
         />
     </a>
     <a href="https://github.com/EricDRL?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/EricDRL?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
