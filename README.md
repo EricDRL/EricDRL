@@ -59,6 +59,10 @@ Me chamo Eric Delefrati Rocha Leite, tenho 20 anos e sou natural do Paraná. Con
   />
 </p>
 
+---
+
+### 💾 Commits
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EricDRL/EricDRL/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EricDRL/EricDRL/output/pacman-contribution-graph.svg">
