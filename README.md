@@ -57,7 +57,7 @@ Me chamo Eric Delefrati Rocha Leite, tenho 20 anos e sou natural do Paraná. Con
 
 <br/> 
 
-### 🐱‍💻 Commits
+### 💾 Commits
 
 <p align="center">
   <picture>
