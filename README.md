@@ -3,16 +3,17 @@
 
 **`Programador`**
 
-Me chamo Eric Delefrati Rocha Leite, tenho 20 anos e sou natural do Paraná. Concluí o ensino médio no Colégio Alfa Tesla. Atualmente, estou cursando Engenharia de Software na Unicesumar. Amante de tudo que envolve o mundo da computação e tecnologia.
+Me chamo Eric Delefrati Rocha Leite, tenho 20 anos e sou natural do Paraná. Concluí o ensino médio no Colégio Alfa Tesla. Atualmente, estou cursando Engenharia de Software na Unicesumar. Amante de tudo que envolve o mundo da computação e tecnologia. Acessa meu site no Neocities: https://themediabunker.neocities.org/
 
 <p align="left">
-    <a href="https://github.com/EricDRL?tab=repositories">
-        <img
-            alt="Total de repositórios"
-            title="Total de repositórios GitHub"
-            src="https://custom-icon-badges.demolab.com/github/repositories/EricDRL?color=55960c&style=for-the-badge&labelColor=488207&logo=repo&label=Repositórios"
-        />
-    </a>
+
+<a href="https://github.com/EricDRL?tab=repositories">
+    <img
+        alt="Repositórios"
+        title="Ver meus repositórios"
+        src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FEricDRL&query=%24.public_repos&label=Reposit%C3%B3rios&color=55960c&style=for-the-badge&logo=github"
+    />
+</a>
     <a href="https://github.com/EricDRL?tab=followers">
         <img
             alt="Seguidores"
@@ -38,17 +39,22 @@ Me chamo Eric Delefrati Rocha Leite, tenho 20 anos e sou natural do Paraná. Con
 
 ---
 
+
 ### 📊 Estatísticas
 
-<p align="center">
-    <img
-        alt="Estatísticas do GitHub"
-        height="180"
-        src="https://github-readme-stats.vercel.app/api?username=EricDRL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
-    <img
-        alt="Linguagens mais utilizadas"
-        height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDRL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-stats-extended.vercel.app/api?username=EricDRL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+  <img
+    align="left"
+    alt="Linguagens mais utilizadas"
+    height="200"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=EricDRL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
 </p>
