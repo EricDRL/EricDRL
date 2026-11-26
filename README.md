@@ -2,7 +2,8 @@
 
 Programador
 
-Me chamo Eric Delefrati Rocha Leite, tenho 20 anos e sou natural do Paraná. Concluí o ensino médio no Colégio Alfa Tesla. Atualmente, estou cursando Engenharia de Software na Unicesumar. Amante de tudo que envolve o mundo da computação e tecnologia. Acessa meu site no Neocities: https://themediabunker.neocities.org/
+Me chamo Eric Delefrati Rocha Leite, tenho 20 anos e sou natural do Paraná. Concluí o ensino médio no Colégio Alfa Tesla. Atualmente, estou cursando Engenharia de Software na Unicesumar. Amante de tudo que envolve o mundo da computação e tecnologia.
+Acessa meu site no Neocities: https://themediabunker.neocities.org/
 
 <p align="left">
 
